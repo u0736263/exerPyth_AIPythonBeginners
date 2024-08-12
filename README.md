@@ -19,4 +19,9 @@ You'll need to click on the Course Syllabus link and select the second course in
 * Lesson 6: Helping AI make decisions
 * Lesson 7: Next course preview: Working with files
 
+You can complete the notebooks directly in the tutorial interface. You can download a completed notebook by going to File - Download as - Notebook (.ipynb) before moving onto the next. You can then upload your notebook file to your GitHub repository.
+
+![image](https://github.com/user-attachments/assets/0ad4e709-3c1c-4ddb-9901-0e13c6c243da)
+
+
 DeepLearning.AI sends out a regular newsletter where Andres Ng talks about emerging trends in AI and notifications when new tutorials are released. I've found a number of the tutorials informative. You might consider signing up for the newsletter to keep abreast of new developments in the field. https://www.deeplearning.ai/
