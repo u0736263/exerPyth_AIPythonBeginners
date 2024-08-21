@@ -1,6 +1,6 @@
 # AI Python for Beginners
 
-Complete the tutorials at https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction. (I just used my Google ID to sign up for an account.) Use this repository to turn in your completed notebooks for assignment credit. Some of the lessons are just videos, but some lessons have attached notebooks you should complete as you watch the videos. Turn in a completed notebook for each of the videos listed below to receive full credit.
+Complete the tutorials at https://www.deeplearning.ai/short-courses/ai-python-for-beginners/ . (I just used my Google ID to sign up for an account.) Use this repository to turn in your completed notebooks for assignment credit. Some of the lessons are just videos, but some lessons have attached notebooks you should complete as you watch the videos. Turn in a completed notebook for each of the videos listed below to receive full credit.
 
 * Lesson 4: Running your first program
 * Lesson 6: Data in Python
